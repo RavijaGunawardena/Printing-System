@@ -1,0 +1,103 @@
+[TONER TECHNICIAN] - Came to replace the Toner Cartridge
+[TONER TECHNICIAN] - No need of replacing the Toner at this time. Current Toner Level is 50
+[student3] - Request to print a document
+Document is printing... please wait... 
+[student3] - Successfully printed the document [Doc_1] with page length [4pg]. Available Paper Level is 6 and Toner Level is 46.
+[student2] - Request to print a document
+[student2] - [Doc_1][7pg] - No papers to print. Current Paper Level is 6.
+[student1] - Request to print a document
+[student1] - [Doc_1][8pg] - No papers to print. Current Paper Level is 6.
+[student4] - Request to print a document
+Document is printing... please wait... 
+[student4] - Successfully printed the document [Doc_1] with page length [3pg]. Available Paper Level is 3 and Toner Level is 43.
+[PAPER TECHNICIAN] - Is about to refill the paper tray
+Refill the paper tray... please wait...
+[PAPER TECHNICIAN] - Has been Refilled tray with pack of paper. New paper level is: 53.
+Document is printing... please wait... 
+[student1] - Successfully printed the document [Doc_1] with page length [8pg]. Available Paper Level is 45 and Toner Level is 35.
+Document is printing... please wait... 
+[student2] - Successfully printed the document [Doc_1] with page length [7pg]. Available Paper Level is 38 and Toner Level is 28.
+[TONER TECHNICIAN] - No need of replacing the Toner at this time. Current Toner Level is 28
+[student4] - Request to print a document
+Document is printing... please wait... 
+[student4] - Successfully printed the document [Doc_2] with page length [1pg]. Available Paper Level is 37 and Toner Level is 27.
+[TONER TECHNICIAN] - No need of replacing the Toner at this time. Current Toner Level is 27
+[student2] - Request to print a document
+Document is printing... please wait... 
+[student2] - Successfully printed the document [Doc_2] with page length [6pg]. Available Paper Level is 31 and Toner Level is 21.
+[TONER TECHNICIAN] - No need of replacing the Toner at this time. Current Toner Level is 21
+[PAPER TECHNICIAN] - Is about to refill the paper tray
+Refill the paper tray... please wait...
+[PAPER TECHNICIAN] - Has been Refilled tray with pack of paper. New paper level is: 81.
+[TONER TECHNICIAN] - No need of replacing the Toner at this time. Current Toner Level is 21
+[student1] - Request to print a document
+Document is printing... please wait... 
+[student1] - Successfully printed the document [Doc_2] with page length [7pg]. Available Paper Level is 74 and Toner Level is 14.
+[TONER TECHNICIAN] - No need of replacing the Toner at this time. Current Toner Level is 14
+[student3] - Request to print a document
+Document is printing... please wait... 
+[student3] - Successfully printed the document [Doc_2] with page length [7pg]. Available Paper Level is 67 and Toner Level is 7.
+Replacing the Toner Cartridge... please wait...
+[TONER TECHNICIAN] - Toner has been replaced successfully. New Toner Level is 507.
+[student2] - Request to print a document
+Document is printing... please wait... 
+[student2] - Successfully printed the document [Doc_3] with page length [1pg]. Available Paper Level is 66 and Toner Level is 506.
+[PAPER TECHNICIAN] - Is about to refill the paper tray
+Refill the paper tray... please wait...
+[PAPER TECHNICIAN] - Has been Refilled tray with pack of paper. New paper level is: 116.
+[student4] - Request to print a document
+Document is printing... please wait... 
+[student4] - Successfully printed the document [Doc_3] with page length [10pg]. Available Paper Level is 106 and Toner Level is 496.
+[student3] - Request to print a document
+Document is printing... please wait... 
+[student3] - Successfully printed the document [Doc_3] with page length [4pg]. Available Paper Level is 102 and Toner Level is 492.
+[student1] - Request to print a document
+Document is printing... please wait... 
+[student1] - Successfully printed the document [Doc_3] with page length [7pg]. Available Paper Level is 95 and Toner Level is 485.
+[PAPER TECHNICIAN] - finished attempts to refill the printer with paper packs.
+[TONER TECHNICIAN] - Came to replace the Toner Cartridge
+[TONER TECHNICIAN] - No need of replacing the Toner at this time. Current Toner Level is 485
+[student1] - Request to print a document
+Document is printing... please wait... 
+[student1] - Successfully printed the document [Doc_4] with page length [10pg]. Available Paper Level is 85 and Toner Level is 475.
+[TONER TECHNICIAN] - No need of replacing the Toner at this time. Current Toner Level is 475
+[student2] - Request to print a document
+Document is printing... please wait... 
+[student2] - Successfully printed the document [Doc_4] with page length [2pg]. Available Paper Level is 83 and Toner Level is 473.
+[TONER TECHNICIAN] - No need of replacing the Toner at this time. Current Toner Level is 473
+[student4] - Request to print a document
+Document is printing... please wait... 
+[student4] - Successfully printed the document [Doc_4] with page length [6pg]. Available Paper Level is 77 and Toner Level is 467.
+[TONER TECHNICIAN] - No need of replacing the Toner at this time. Current Toner Level is 467
+[student3] - Request to print a document
+Document is printing... please wait... 
+[student3] - Successfully printed the document [Doc_4] with page length [8pg]. Available Paper Level is 69 and Toner Level is 459.
+[TONER TECHNICIAN] - No need of replacing the Toner at this time. Current Toner Level is 459
+[student2] - Request to print a document
+Document is printing... please wait... 
+[student2] - Successfully printed the document [Doc_5] with page length [3pg]. Available Paper Level is 66 and Toner Level is 456.
+[TONER TECHNICIAN] - No need of replacing the Toner at this time. Current Toner Level is 456
+[student1] - Request to print a document
+Document is printing... please wait... 
+[student1] - Successfully printed the document [Doc_5] with page length [10pg]. Available Paper Level is 56 and Toner Level is 446.
+[TONER TECHNICIAN] - No need of replacing the Toner at this time. Current Toner Level is 446
+[student4] - Request to print a document
+Document is printing... please wait... 
+[student4] - Successfully printed the document [Doc_5] with page length [5pg]. Available Paper Level is 51 and Toner Level is 441.
+[TONER TECHNICIAN] - No need of replacing the Toner at this time. Current Toner Level is 441
+[student3] - Request to print a document
+Document is printing... please wait... 
+[student3] - Successfully printed the document [Doc_5] with page length [10pg]. Available Paper Level is 41 and Toner Level is 431.
+[TONER TECHNICIAN] - No need of replacing the Toner at this time. Current Toner Level is 431
+student1 finished printing: Documents: 5, Pages: 10.
+student2 finished printing: Documents: 5, Pages: 3.
+student4 finished printing: Documents: 5, Pages: 5.
+student3 finished printing: Documents: 5, Pages: 10.
+[TONER TECHNICIAN] - No need of replacing the Toner at this time. Current Toner Level is 431
+[TONER TECHNICIAN] - Came to replace the Toner Cartridge
+[TONER TECHNICIAN] - No need of replacing the Toner at this time. Current Toner Level is 431
+[TONER TECHNICIAN] - finished attempts to refill the printer with paper packs.
+
+                  PRINTER SUMMARY                 
+
+LaserPrinter{Printer ID: 'Uni Printer', Paper Level: 41, Toner Level: 431, Documents Printed: 20}
